@@ -11,4 +11,4 @@ Internados_Confirmados_UTI_Adulto+Pediátrico = número de pacientes internados 
 
 Leitos_UTI_Covid-19 = Número de leitos de UTI para atender Covid-19 (Fonte: Sistema de Monitoramento de Leitos / SES-RS)
 
-Vacina_dt_vacinacao = Número de pessoas vacinadas por data de vacinação (Fonte: SES-RS)
+Vacina_dt_vacinacao = Número de pessoas vacinadas por data de vacinação (Fonte: SIPNI, MS e SES-RS)
