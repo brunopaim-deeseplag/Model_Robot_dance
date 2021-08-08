@@ -1,6 +1,8 @@
 # Model_Robot_dance
 Casos_dt-Confirmação = número de casos confirmados para Covid-19 por data de confirmação do exame (Fonte: SES-RS)
 
+Casos_dt-Confirmacao_(somente_antigeno+RT-PCR) = número de casos confirmados para Covid-19 por data de confirmação do exame, considerando somente RT-PCR e teste rápido de Antígeno (Fonte: SES-RS)
+
 Casos_dt-Inclusão = número de casos confirmados para Covid-19 por data de inclusão do registro (Fonte: SES-RS)
 
 Casos_dt-sintomas= número de casos confirmados para Covid-19 por data de início dos sintomas (Fonte: SES-RS)
